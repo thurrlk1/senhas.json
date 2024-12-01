@@ -1,8 +1,9 @@
 {
     "HBO Max": ["Senha1", "Senha2", "AINN", "Senha4"],
     "Star+": ["SenhaA", "SenhaB", "SenhaC", "SenhaD"],
-    "Disney+": ["SenhaX", "SenhaY", "SenhaZ", "SenhaW"],
-    "Discord": ["SenhaM", "SenhaN", "SenhaO", "SenhaP"],
-    "Disc": ["SenhaM", "SenhaN", "SenhaO", "SenhaP"],
-    "Net": ["SenhaE", "SenhaF", "SenhaG", "SenhaH"]
+    "Paramount": ["SenhaX", "SenhaY", "SenhaZ", "SenhaW"],
+    "Tofus(+18)": ["SenhaM", "SenhaN", "SenhaO", "SenhaP"],
+    "Deezer": ["SenhaM", "SenhaN", "SenhaO", "SenhaP"],
+     "Steam": ["SenhaM", "SenhaN", "SenhaO", "SenhaP"],
+    "Crunchyroll": ["SenhaE", "SenhaF", "SenhaG", "SenhaH"]
 }
