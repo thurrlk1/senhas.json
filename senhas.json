@@ -1,9 +1,9 @@
 {
-    "HBO Max": ["Senha1", "Senha2", "AINN", "Senha4"],
-    "Star+": ["SenhaA", "SenhaB", "SenhaC", "SenhaD"],
-    "Paramount": ["SenhaX", "SenhaY", "SenhaZ", "SenhaW"],
-    "Tofus(+18)": ["SenhaM", "SenhaN", "SenhaO", "SenhaP"],
-    "Deezer": ["SenhaM", "SenhaN", "SenhaO", "SenhaP"],
-     "Steam": ["SenhaM", "SenhaN", "SenhaO", "SenhaP"],
-    "Crunchyroll": ["SenhaE", "SenhaF", "SenhaG", "SenhaH"]
+  "HBO Max": ["senha1", "senha2", "senha3"],
+  "Star+": ["senha4", "senha5", "senha6"],
+  "Paramount": ["senha7", "senha8", "senha9"],
+  "Tofus (+18)": ["senha10", "senha11", "senha12"],
+  "Deezer": ["senha13", "senha14", "senha15"],
+  "Steam": ["senha16", "senha17", "senha18"],
+  "Crunchyroll": ["senha19", "senha20", "senha21"]
 }
